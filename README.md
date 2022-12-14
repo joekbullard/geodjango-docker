@@ -18,3 +18,5 @@ The project is set up to automatically `makemigrations`, `migrate` and `runserve
 Currently uses psycopg2-binary, this is a development environment template only and not fit for production. When required, should instead be adjusted to use psycopg2, this will require adjusting the `Dockerfile.dev` to include psycopg2 prerequisites.
 
 Implement django-rest-framework and django-rest-framework-gis
+
+Consider swapping to alpine-small for production
