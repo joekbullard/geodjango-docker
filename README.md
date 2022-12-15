@@ -1,5 +1,5 @@
 # GeoDjango Docker Template
-> A Docker Django project template built upon osgeo/gdal ubuntu image and using PostGIS extension for PostgreSQL to enable geospatial applications. It includes a generic user auth model with email login.
+> A Docker Django project template built upon osgeo/gdal ubuntu image and using PostGIS extension for PostgreSQL to enable geospatial applications. It includes a generic user auth model with email login. To be used as the base for a development environment for geospatial django applications.
 
 ## Requirements
 * Docker
